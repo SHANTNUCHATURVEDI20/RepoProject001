@@ -1,0 +1,9 @@
+1.Customer Management Life Cycle
+2.Tempus Connection and Disconnection, DMS Server Sync
+3.Live dashboard, Device Icon Refresh
+4.SignalR Connection / Disconnect process
+5.Patient And Incident relationship
+6.ECG Alerting and 12 Lead ECG tab including ECG Review, ECG dashboard, ECG Notification
+7.Session Management
+8.Events - Manual and Automated, Event File Processing
+9.Application Level security - Anti forgery Token and WCF Interceptor
